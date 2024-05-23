@@ -1,0 +1,15 @@
+{
+    "name": "wemerson-santos/inspire",
+    "autoload": {
+        "psr-4": {
+            "WemersonSantos\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wemerson Santos",
+            "email": "wemerson.profissional@gmail.com"
+        }
+    ],
+    "require": {}
+}
